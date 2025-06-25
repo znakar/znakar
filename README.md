@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I'm currently working on an abandoned project by other people to master DevOps tools
+- 🌱 I'm currently learning DevOps tools and pentest tools
+- 👯 I’m looking to collaborate on DevOps, pentest
 <!--
 **znakar/znakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
