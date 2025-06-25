@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I'm currently working on an abandoned project by other people to master DevOps tools
-- 🌱 I'm currently learning DevOps tools and pentest tools
-- 👯 I’m looking to collaborate on DevOps, pentest
+My name is Andrey, and i'm student who learning DevOps tools and also interested in all thing Python & Pentest
+
+- 🚧 I'm currently working on [WebPython](https://github.com/znakar/Web_Python) to master DevOps tools. It's simple web app using Flask.
+- 📖 I'm currently learning DevOps tools and pentest tools
+- 🎯 I’m looking to collaborate on YouTube.
+  - Send ideas for my project to andreyassassinmishin@gmail.com
 <!--
 **znakar/znakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
